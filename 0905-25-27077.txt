@@ -1,0 +1,3 @@
+En este proyecto aprendí a crear repositorios y clonarlos en mi computadora, aprendí a usar los diferentes comandos proporcionados, a crear ramas para no afectar el proyecto principal mientras hago otras cosas.
+Trabaje de forma individual para comprender mejor cada paso de todo el proceso que lleve para realizar mi proyecto, fue un tanto tedioso cuando no entendía muy bien si iba bien, pero viendo algunos tutoriales me guie mucho mejor. Algo que considero me costo mas fue el 
+Creo que trabajar con git es una gran ventaja a la hora de trabajar en equipo o individual ya que el echo que lleve todo registrado ayuda mucho a guiarse en la manera que se esta trabajando y sobre todo si se comente un error es una gran ayuda que se puedan recuperar los archivos.  
